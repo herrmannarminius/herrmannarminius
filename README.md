@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @herrmannarminius
+- 👋 Hi, I’m @herrmannarminius, product owner of the #Sachsenpfennig
 - 👀 I’m interested in lauchning a local currency in Germany / Saxonia. 
-- 🌱 I’m currently learning most about the lightning network.
+- 🌱 I’m currently beta-testing a own lightning network together with a couple of business owners.
 - 💞️ I’m looking to collaborate on ln, lnbits, bluewallet etc.
 - 📫 How to reach me Twitter @hermannarminiu5
 
